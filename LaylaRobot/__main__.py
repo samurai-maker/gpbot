@@ -54,7 +54,6 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 Hi {},<code> my name is </code> {}! ❣️ 
 <code>I am a group management bot I can help you to manage your group.
-I can give you lewd and nsfw pictures too ❣️ 
 You can find my list of available commands with </code>  /help
 
 """
